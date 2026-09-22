@@ -1,0 +1,6 @@
+fastapi
+openai
+psycopg[binary]
+pyTelegramBotAPI
+# Local development only (Vercel serves the ASGI app for you):
+uvicorn[standard]
